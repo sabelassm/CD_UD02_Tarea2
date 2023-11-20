@@ -82,6 +82,7 @@ A medida que vayas trabajando, debes ir subiendo el código que generes al repos
 Una vez termines todas las tareas asociadas a la unidad debes subir a la tarea del mestre la url del repositorio que hayáis generado y  realizar un **pull request** al repositorio original.  
 
 ## Autores
+Aitana Novo Sanmiguel
 
 Elena Quintela Babío
 Alejandro Rodríguez Gómez
