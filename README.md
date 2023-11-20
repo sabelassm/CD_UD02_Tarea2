@@ -83,7 +83,12 @@ Una vez termines todas las tareas asociadas a la unidad debes subir a la tarea d
 
 ## Autores
 
+<<<<<<< HEAD
+Julio
+
+=======
 Elena Quintela Babío
 Alejandro Rodríguez Gómez
 Beatriz Fontán
 Izan Santos Bascoy
+>>>>>>> 2cfad52d60a5d545e213359034cce44d7f17c3c9
