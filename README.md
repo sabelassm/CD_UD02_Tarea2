@@ -83,6 +83,13 @@ Una vez termines todas las tareas asociadas a la unidad debes subir a la tarea d
 
 ## Autores
 
+<<<<<<< HEAD
 #### Vanessa Beis Guijarro
 
 
+=======
+Elena Quintela Babío
+Alejandro Rodríguez Gómez
+Beatriz Fontán
+Izan Santos Bascoy
+>>>>>>> profesor/main
